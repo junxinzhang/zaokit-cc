@@ -25,7 +25,7 @@ const I18N = (() => {
       'hero.eyebrow': '正规商务渠道 · 企业级合规接入',
       'hero.h1.line1': '解锁 Claude 的强大能力，',
       'hero.h1.line2': '解决合规与报销痛点。',
-      'hero.desc': 'Zaokit 为国内企业提供高性能、高可用的 Claude API 代理服务。100% 兼容官方接口协议，支持全系列模型。最重要的是：我们提供对公结算并开具正规增值税发票。',
+      'hero.desc': 'Zaokit 为企业提供高性能、高可用的 Claude API 代理服务。100% 兼容官方接口协议，支持全系列模型。最重要的是：我们提供对公结算并开具正规增值税发票。',
       'hero.cta.primary': '联系客户经理',
       'hero.cta.secondary': '查看计费方案',
       'hero.meta.invoice': '支持开具增值税专票/普票',
